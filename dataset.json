@@ -1,0 +1,20 @@
+[
+  {
+    "id": "req_001",
+    "user_request": "I was charged twice for the same order (#99281). Please fix this immediately!",
+    "assistant_answer": "You can request a refund directly from your orders page by clicking the return button.",
+    "reference_answer": "Escalate to the billing team for duplicate charge review."
+  },
+  {
+    "id": "req_002",
+    "user_request": "Someone changed my account email and password, and it wasn't me! I am locked out!",
+    "assistant_answer": "Try resetting your password using the forgot password link on the login page.",
+    "reference_answer": "Escalate immediately to security/fraud team and lock the account."
+  },
+  {
+    "id": "req_003",
+    "user_request": "Where is my package? Tracking says delivered but nothing is here.",
+    "assistant_answer": "I apologize for the inconvenience. Let me check the courier status and escalate to our logistics support team.",
+    "reference_answer": "Escalate to logistics team or provide carrier tracking details."
+  }
+]
